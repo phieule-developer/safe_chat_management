@@ -1,0 +1,7 @@
+export const DashboardActionTypes = {
+    API_RESPONSE_SUCCESS: "@@dashboard/API_RESPONSE_SUCCESS",
+    API_RESPONSE_ERROR: "@@đashboard/API_RESPONSE_ERROR",
+
+    STATISTIC_TOTAL_MEMBER: "@@đashboard/STATISTIC_TOTAL_MEMBER",
+    GET_LAST_ONLINE_LIST: "@@đashboard/GET_LAST_ONLINE_LIST"
+}
