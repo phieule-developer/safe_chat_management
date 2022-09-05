@@ -4,7 +4,7 @@ import { readLocalStorage } from '../helpers/localStorage';
 
 
 const instance = axios.create({
-    baseURL: "http://172.20.10.3:8000/api/v1",
+    baseURL: "http://117.4.247.68:10800/api/v1",
     headers: {
         'content-type': 'application/json',
     }
